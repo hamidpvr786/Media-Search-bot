@@ -330,7 +330,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('Join Now...', url='https://t.me/islamicsongsmadhsongs'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/subin_works')
+                        InlineKeyboardButton('Update Channel', url='https://t.me/hubburasoolsongs')
                     ]
                     ]
                 
