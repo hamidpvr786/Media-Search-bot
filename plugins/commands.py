@@ -103,7 +103,7 @@ async def start(bot, cmd):
                         InlineKeyboardButton("Our Group", url="https://t.me/islamicsongsmadhsongs")
                     ],
                     [
-                        InlineKeyboardButton("About", callback_data="about")
+                        inlinekeyboardbutton("Developer😎", url="t.me/hamidpvr786")
                     ]
                 ]
             )
